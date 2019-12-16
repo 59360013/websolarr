@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Concert+One&display=swap');
+
+.bg {
+    width: 100vw;
+    height: 100vh;
+    
+    background-position: top center;
+    background: url("https://sv1.picz.in.th/images/2019/09/21/cfVFfN.jpg");
+    //background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.page {
+    padding-top: 15%;
+}
+.page1 {
+    padding-left: 5%;
+}
+#grad1 {
+  height: 100%;
+  background-image: linear-gradient(to right top, #051937, #373666, #715293, #b56dbb, #ff88db); /* Standard syntax (must be last) */
+  }
+.text {
+    font-size: 80px;
+  }
+.Moon {
+    font-style: Prompt;
+  }
+.colo {
+  font-size: 100px;
+  background: -webkit-linear-gradient(#2555d8, #1d2933);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Concert One', cursive;
+  }
+.colo1 {
+  font-size: 25px;
+  font-family: 'Concert One', cursive;
+  text-align: right
+}
+.box {
+  font-size: 15px;
+  height:100%;
+  border-radius: 100px;
+  padding-left: 10%;
+}
+.buttonlogin {
+  font-size: 15px;
+  height:100%;
+  border-radius: 100px;
+  width:100px;
+  background-color: #465A3D; 
+  color: #ffffff;
+
+}
